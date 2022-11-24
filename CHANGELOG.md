@@ -1,3 +1,12 @@
+## [0.1.2](https://github.com/polinchw/go-microservice/compare/v0.1.1...v0.1.2) (2022-11-24)
+
+
+### Bug Fixes
+
+* Adding the dockerfile and go.mod. ([f51ff3a](https://github.com/polinchw/go-microservice/commit/f51ff3a570949340b5f02052c340500292c2225c))
+
+
+
 ## [0.1.1](https://github.com/polinchw/go-microservice/compare/v0.1.0...v0.1.1) (2022-11-17)
 
 
